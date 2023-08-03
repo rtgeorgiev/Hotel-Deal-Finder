@@ -1,0 +1,1 @@
+Selenium WebDriver to automate the process of searching for hotels at Booking.com. The bot searches for places to stay based on location, dates, number of people with one click. You can apply filtration based on stars rating and prices. The bot returns an automated report with findings. 
